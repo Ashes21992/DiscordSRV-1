@@ -6,7 +6,7 @@ ConfigVersion: ${version}
 
 # Bot token; Ved du ikke hvad dette er? Se videoen på plugin siden for instruktioner
 # Du skal genstarte din server efter ændring af denne mulighed
-BotToken: "BOTTOKEN"
+BotToken: "MTM5ODgzNTE4NjUzMTMwNzUzMA.G4HYGu.gw0uU1IoFcekqFX88JoDDGOR6yGTLKHttsA5vM"
 
 # Kanal links fra spillet til Discord
 # syntaxen er Channels: {"spillets in-game kanal navn fra Minecraft": "nummeret kanal id fra Discord", "en anden in-game kanal navn fra Minecraft": "et andet nummerisk kanal id fra Discord"}
@@ -27,13 +27,13 @@ BotToken: "BOTTOKEN"
 #
 # Den første del af at danne kanal par er ikke Discord kanal navnet!
 # Kør "/discord reload" efter du har ændret denne
-Channels: {"global": "000000000000000000"}
+Channels: {"global": "1449952585300574220"}
 
 # Konsol kanalens numeriske ID (IKKE NAVN), efterlad blank for at slå fra
-DiscordConsoleChannelId: "000000000000000000"
+DiscordConsoleChannelId: "1449954520678269030"
 
 # Invitations link vist til spillere når der bruges /discord og beskeden vist til utilkoblede brugere når tilkobling er påbudt
-DiscordInviteLink: "https://discord.gg/changethisintheconfig.yml"
+DiscordInviteLink: "https://discord.gg/n4N54sug3R"
 
 # Eksperimenterende
 # Disse funktioner er ikke fuldt optimeret; brug på eget ansvar
@@ -353,3 +353,4 @@ ProxyPassword: "PASSWORD"
 # Ex. "Debug: [GROUP_SYNC, PRESENCE]"
 #
 Debug: []
+
